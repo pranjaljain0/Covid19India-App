@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@react-navigation/material-bottom-tabs": "^5.2.2",
-    "@react-navigation/native": "^5.3.0",
+    "@react-navigation/native": "^5.9.4",
     "@use-expo/font": "^2.0.0",
     "axios": "^0.21.1",
     "expo": "~37.0.3",
